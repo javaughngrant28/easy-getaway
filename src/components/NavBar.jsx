@@ -8,7 +8,7 @@ import {
   FaBars
 } from 'react-icons/fa'
 
-export const NavBar = () => {
+const NavBar = () => {
 
   const [nav,setNav] = useState(false)
 
@@ -75,3 +75,5 @@ export const NavBar = () => {
     </nav>
   )
 }
+
+export default NavBar
