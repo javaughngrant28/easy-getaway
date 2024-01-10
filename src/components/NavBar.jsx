@@ -32,12 +32,12 @@ const NavBar = () => {
         </li>
       </ul>
 
-      <div className='flex justify-between'>
+      <a href='https://www.instagram.com/jav_000?igsh=MXYxZG5oaTVwMmpmdg==' className='flex justify-between'>
         <FaFacebookF className='mx-4' />
         <FaTwitter className='mx-4' />
         <FaGooglePlusG className='mx-4' />
         <FaInstagram className='mx-4' />
-      </div>
+      </a>
 
       {/* Hamburger icon */}
       <div onClick={handleNav} className='sm:hidden z-10'>
