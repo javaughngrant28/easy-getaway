@@ -3,7 +3,7 @@ import React from 'react'
 function Hero() {
   return (
     <div className='w-full h-[90vh]'>
-        <img src='https://images.unsplash.com/photo-1494879540385-bc170b0878a7?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' 
+        <img src='https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3433&q=80' 
         alt='/' 
         className='w-full h-full object-cover'
         />

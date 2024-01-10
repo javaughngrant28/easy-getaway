@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from 'react'
-import { BsChatSquareDots } from 'react-icons/bs'
+import React, { useState } from 'react'
 import {
   FaFacebookF,
   FaTwitter,
@@ -26,7 +25,7 @@ const NavBar = () => {
           <a href='#gallery'>Gallery</a>
         </li>
         <li>
-          <a href='#deals'>Deals</a>
+          <a href='#deals'>Book</a>
         </li>
         <li>
           <a href='#contact'>Contact</a>
@@ -63,7 +62,7 @@ const NavBar = () => {
             <a href='#gallery'>Gallery</a>
           </li>
           <li className='text-2xl py-8'>
-            <a href='#deals'>Deals</a>
+            <a href='#deals'>Booking</a>
           </li>
           <li className='text-2xl py-8'>
             <a href='#contact'>Contact</a>
